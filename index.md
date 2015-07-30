@@ -16,6 +16,6 @@ Bootstwatch theme for Jekyll Bootstrap 3. All Bootswatch themes with a one-line 
 ## Config
 In your `_config.yml`. Add your preferred bootswatch theme:
 
-```yaml  
+{% highlight yaml %}
 bootswatch-theme: cerulean
-```
+{% endhighlight %}
