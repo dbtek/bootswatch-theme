@@ -1,6 +1,6 @@
 ---
-name : "bootstwatch"
-website :  "https://github.com/jekyll-bootstrap-3/bootstwatch-theme"
+name : "bootswatch"
+website :  "https://github.com/jekyll-bootstrap-3/bootswatch-theme"
 description :  "Bootswatch theme for Jekyll Bootstrap 3."
 author:
   name : "Ismail Demirbilek"
