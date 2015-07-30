@@ -18,7 +18,7 @@ Bootstwatch theme for Jekyll Bootstrap 3. All Bootswatch themes with a one-line 
 ##Install
 Inside your jekyll bootstrap 3 directory run:  
 {% highlight bash %}
-rake theme:install git="https://github.com/jekyll-bs3/dbyll"
+rake theme:install git="https://github.com/jekyll-bootstrap-3/bootswatch-theme"
 {% endhighlight %}
 
 ##Config
